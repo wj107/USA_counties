@@ -1,0 +1,12 @@
+name: USA_counties
+title: USA_counties
+username:
+account: wj107
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 835217
+bundleId: 1983531
+url: https://wj107.shinyapps.io/USA_counties/
+when: 1554279576.56175
+asMultiple: FALSE
+asStatic: FALSE
